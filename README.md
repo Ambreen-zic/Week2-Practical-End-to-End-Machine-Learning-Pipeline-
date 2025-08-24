@@ -1,0 +1,2 @@
+# Week2-Practical-End-to-End-Machine-Learning-Pipeline-
+This assignment focuses on applying machine learning techniques to a real-world dataset, including data cleaning, exploratory data analysis, feature engineering, model training, and evaluation. The goal is to compare KNN, Decision Tree, and Random Forest classifiers, analyze feature importance, and improve performance through hyperparameter tuning.
